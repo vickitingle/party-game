@@ -1,0 +1,32 @@
+[
+	{
+		"title": "SteveIntro",
+		"tags": "",
+		"body": "you: hey\n\nsteve: hey, hows it going?\n\n[[okay|okay]]\n[[great|great]]",
+		"position": {
+			"x": 173,
+			"y": 199
+		},
+		"colorID": 0
+	},
+	{
+		"title": "okay",
+		"tags": "",
+		"body": "you: yeah i'm okay i guess.",
+		"position": {
+			"x": 420,
+			"y": 203
+		},
+		"colorID": 0
+	},
+	{
+		"title": "great",
+		"tags": "",
+		"body": "you: i'm pretty great",
+		"position": {
+			"x": 164,
+			"y": 433
+		},
+		"colorID": 0
+	}
+]

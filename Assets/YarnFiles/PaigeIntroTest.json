@@ -1,0 +1,32 @@
+[
+	{
+		"title": "PaigeIntro",
+		"tags": "",
+		"body": "you: hey.. is this where i put the wine?\n\npaige: um, yes, but the table is kind of full you might need to squeeze it on the edge.\n\nyou: oh.. okay, thanks.\n\npaige: .....\n\npaige: so are you having a drink or what???\n\n[[no|nodrink]]\n[[yes|yesdrink]]\n\n",
+		"position": {
+			"x": 130,
+			"y": 154
+		},
+		"colorID": 0
+	},
+	{
+		"title": "nodrink",
+		"tags": "",
+		"body": "you: um, no thanks i'm okay.",
+		"position": {
+			"x": 540,
+			"y": 260
+		},
+		"colorID": 0
+	},
+	{
+		"title": "yesdrink",
+		"tags": "",
+		"body": "you: um, okay sure.",
+		"position": {
+			"x": 110,
+			"y": 420
+		},
+		"colorID": 0
+	}
+]

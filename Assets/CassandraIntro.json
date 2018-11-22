@@ -1,0 +1,32 @@
+[
+	{
+		"title": "CassandraIntro",
+		"tags": "",
+		"body": "you: hey\n\ncassandra: oh.. have we met?\n\n[[yes|metcassandra]]\n[[no|notmetcassandra]]",
+		"position": {
+			"x": 45,
+			"y": 118
+		},
+		"colorID": 0
+	},
+	{
+		"title": "metcassandra",
+		"tags": "",
+		"body": "you: yeah.. i think once or twice.\n\ncassandra: hmm, okay.. is that wine? think you're meant to put it on the table over there.",
+		"position": {
+			"x": 264,
+			"y": 88
+		},
+		"colorID": 0
+	},
+	{
+		"title": "notmetcassandra",
+		"tags": "",
+		"body": "you: no, i don't think so.\n\ncassandra: yeah i don't know you. you should put that bottle of wine on the table over there btw.",
+		"position": {
+			"x": 69,
+			"y": 359
+		},
+		"colorID": 0
+	}
+]

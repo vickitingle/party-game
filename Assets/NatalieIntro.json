@@ -1,0 +1,52 @@
+[
+	{
+		"title": "NatalieIntro",
+		"tags": "",
+		"body": "natalie: omg hi!!!! its you! thanks so much for coming! it's been so long since i've been to a good party, you know, since i've been away travelling and stuff ahaha. i'm ready to get WHITE GIRL WASTED!!!\n\n[[hey, natalie|heynatalie]]\n[[white girl wasted?|whitegirlwasted]]\n\n",
+		"position": {
+			"x": -412,
+			"y": 158
+		},
+		"colorID": 0
+	},
+	{
+		"title": "heynatalie",
+		"tags": "",
+		"body": "you: hey, natalie.\n\nnatalie: hiya! lets get this party STARTED!!! ohh and you brought wine AWESOME. you can give it to paige, pretty sure she's got some kind of \"SYSTEM\" for the drinks.\n\n[[okay, thanks, i will|thanksiwill]]\n[[what \"system\"?|system]]",
+		"position": {
+			"x": -144,
+			"y": 159
+		},
+		"colorID": 0
+	},
+	{
+		"title": "whitegirlwasted",
+		"tags": "",
+		"body": "you: what's \"white girl wasted\"?\n\nnatalie: lol it's when you get maaaaad drunk! lets get this party STARTED!!! ohh and you brought wine AWESOME. you can give it to paige, pretty sure she's got some kind of \"SYSTEM\" for the drinks.\n\n[[okay, thanks, i will|thanksiwill]]\n[[what \"system\"?|system]]",
+		"position": {
+			"x": -411,
+			"y": 403
+		},
+		"colorID": 0
+	},
+	{
+		"title": "system",
+		"tags": "",
+		"body": "you: what kind of system?\n\nnatalie: *rolls eyes* oh, you know what shes like. just go talk to her.",
+		"position": {
+			"x": -205,
+			"y": 665
+		},
+		"colorID": 0
+	},
+	{
+		"title": "thanksiwill",
+		"tags": "",
+		"body": "you: thanks, i will.\n\nnatalie: cya!",
+		"position": {
+			"x": -35,
+			"y": 403
+		},
+		"colorID": 0
+	}
+]

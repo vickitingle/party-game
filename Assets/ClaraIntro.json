@@ -1,0 +1,62 @@
+[
+	{
+		"title": "ClaraIntro",
+		"tags": "",
+		"body": "clara: Hi. I think I saw you the other day at the train station but I wasn't sure.\n\n[[that wasn't me|notme]]\n[[that was me|wasme]]",
+		"position": {
+			"x": 92,
+			"y": 93
+		},
+		"colorID": 0
+	},
+	{
+		"title": "notme",
+		"tags": "",
+		"body": "you: i don't think that was me. i wasn't there.\n\nclara: Oh. Well they looked like you anyway. Are you looking for somewhere to put that bottle of wine? There's a table for drinks right there. What kind of wine is it?\n\n[[red|redwine]]\n[[white|whitewine]]\n[[does it matter?|doesitmatter]]",
+		"position": {
+			"x": 320,
+			"y": 100
+		},
+		"colorID": 0
+	},
+	{
+		"title": "redwine",
+		"tags": "",
+		"body": "you: it's just red wine.\n\nclara: Cool. Make sure you don't spill it lol. It'll stain. Paige will tell you where to put it.",
+		"position": {
+			"x": 270,
+			"y": 334
+		},
+		"colorID": 0
+	},
+	{
+		"title": "whitewine",
+		"tags": "",
+		"body": "you: it's just white wine\n\nclara: Cool. My sister drinks white wine lol. I'll have some later. Paige will tell you where to put it anyway.\n",
+		"position": {
+			"x": 501,
+			"y": 344
+		},
+		"colorID": 0
+	},
+	{
+		"title": "doesitmatter",
+		"tags": "",
+		"body": "you: does it matter what kind of wine it is?\n\nclara: Hm. I guess not. Just talk to Paige, she'll know where to put it.\n",
+		"position": {
+			"x": 560,
+			"y": 106
+		},
+		"colorID": 0
+	},
+	{
+		"title": "wasme",
+		"tags": "",
+		"body": "you: yeah, that might have been me.\n\nclara: Certainly looked like you. Are you looking for somewhere to put that bottle of wine? There's a table for drinks right there. What kind of wine is it?\n\n[[red|redwine]]\n[[white|whitewine]]\n[[does it matter?|doesitmatter]]",
+		"position": {
+			"x": 33,
+			"y": 314
+		},
+		"colorID": 0
+	}
+]
